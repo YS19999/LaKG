@@ -1,2 +1,2 @@
 # LaKG
-A Label Knowledge Generalization Method for Few-Shot Multi-Label Intent Recognition.
+The paper "Few-shot multi-label intent recognition augmented by label knowledge generalization method" accepted by "Information Fusion".
